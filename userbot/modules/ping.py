@@ -4,7 +4,7 @@
 # you may not use this file except in compliance with the License.
 #
 # ReCode by @mrismanaziz
-# FROM Man-Userbot <https://github.com/mrismanaziz/Man-Userbot>
+# FROM Jes-Userbot <https://github.com/Jeskatanya/Jes-Userbot>
 # t.me/SharingUserbot & t.me/Lunatic0de
 
 import random
